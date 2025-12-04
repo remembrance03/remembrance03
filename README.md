@@ -11,12 +11,12 @@ I love experimenting, breaking things, fixing them, and learning along the way. 
 
 ---
 
-### <img src="https://tinyurl.com/2vwk95v2" width="50"> Actively Learning 
+### I'm actively learning... <img src="https://tinyurl.com/2vwk95v2" width="150" align="right" style="margin-left: 100px;"/>  
 
-- Machine Learning & Generative AI  
-- Data Science (NumPy, Pandas, Seaborn)  
-- LangGraph & LLM Pipelines  
-- Backend APIs  
+- Machine Learning & Generative AI
+- Data Science (NumPy, Pandas, Seaborn)
+- LangGraph & LLM Pipelines
+- Handling Backend APIs
 
 ---
 
