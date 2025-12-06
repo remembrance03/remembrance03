@@ -5,13 +5,13 @@
 Hi! I'm Smriti, currently steering my journey toward Machine Learning, AI, and Data Analysis.
 I enjoy exploring how data and intelligent systems work, building things with Python, and experimenting with ideas that blend creativity and logic.
 
-I love experimenting, breaking things, fixing them, and learning along the way. I’m always curious to explore new tools and techniques that push the boundaries of what I can create.
-
+I love experimenting, breaking things, fixing them, and learning along the way. I’m always curious to explore new tools and techniques that push the boundaries of what I can create.<br>
+📬: 2003.smriti03@gmail.com
 <br>
 
 ---
 
-### I'm actively learning... <img src="https://tinyurl.com/2vwk95v2" width="150" align="right" style="margin-left: 100px;"/>  
+### I'm actively learning... <img src="https://tinyurl.com/2vwk95v2" width="190" height="173" align="right" style="margin-left: 100px;"/>  
 
 - Machine Learning & Generative AI
 - Data Science (NumPy, Pandas, Seaborn)
