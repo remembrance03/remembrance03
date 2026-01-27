@@ -1,1 +1,1 @@
-<img src="github profile.png" width="1500" height="1000">
+<img src="github profile.gif">
